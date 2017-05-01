@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'hero';
+    src: url('../fonts/DisneyHeroic.ttf');
+}
+h1{
+	background-color: tomato;
+	text-align: center;
+	margin: 0 auto;
+	color: tomato;
+	color: rgb(123,255,12);
+	color: rgba(31,100,200,.1)
+	color:#8ada55;
+	font-family: 'hero', cursive;
+}
+
+.wrapper{
+	/*height: 500px;*/
+	position: relative;
+}
+
+.wrapper p{
+/*	position: absolute;*/
+}
+sup {
+	color: blue
+}
+sub {
+	color: red
+}

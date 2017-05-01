@@ -1,0 +1,10 @@
+ul {
+	background-color: black;
+	color: white;
+	display: block;
+	text-align: center;
+}
+li {
+	display: inline-block;
+	width: 80px;
+}
